@@ -1,4 +1,5 @@
 bin/
+out/
 local.properties
 .idea/
 *.iml
